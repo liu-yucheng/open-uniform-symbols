@@ -1,0 +1,9 @@
+[submodule "rank-insignias"]
+	path = rank-insignias
+	url = git@github.com:liu-yucheng/open-rank-insignias.git
+[submodule "camouflages"]
+	path = camouflages
+	url = git@github.com:liu-yucheng/open-camouflages.git
+[submodule "ribbon-symbols"]
+	path = ribbon-symbols
+	url = git@github.com:liu-yucheng/open-ribbon-symbols.git
